@@ -1,0 +1,17 @@
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.Form1.resources
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.Properties.Resources.resources
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.csproj.GenerateResource.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Icons\AddFileIcon.png
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Icons\BoldIcon.png
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Icons\ItalicIcon.png
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Icons\OpenFileIcon.png
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Icons\SaveIcon.png
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Icons\UnderlineIcon.png
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Bai04.exe.config
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Bai04.exe
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\bin\Debug\Bai04.pdb
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.exe
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.pdb
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai04\obj\Debug\Bai04.exe.config

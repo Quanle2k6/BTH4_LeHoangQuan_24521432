@@ -1,0 +1,32 @@
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Bai03.exe.config
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Bai03.exe
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Bai03.pdb
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Interop.WMPLib.dll
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\AxInterop.WMPLib.dll
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Interop.WMPLib.dll
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\AxInterop.WMPLib.dll
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.Form1.resources
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.exe
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.pdb
+D:\UIT\LY_THUYET\IT008 - LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.exe.config
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Bai03.exe.config
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Bai03.exe
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Bai03.pdb
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\Interop.WMPLib.dll
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\bin\Debug\AxInterop.WMPLib.dll
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.exe.config
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Interop.WMPLib.dll
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\AxInterop.WMPLib.dll
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.ResolveComReference.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.Form1.resources
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.exe
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai03\obj\Debug\Bai03.pdb
