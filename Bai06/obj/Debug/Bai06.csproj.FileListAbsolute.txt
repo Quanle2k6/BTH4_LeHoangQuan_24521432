@@ -1,0 +1,11 @@
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\bin\Debug\Bai06.exe.config
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\bin\Debug\Bai06.exe
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\bin\Debug\Bai06.pdb
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.csproj.AssemblyReference.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.Form1.resources
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.Properties.Resources.resources
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.csproj.GenerateResource.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.csproj.CoreCompileInputs.cache
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.exe
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.pdb
+D:\UIT\THUC_HANH\IT008-LTTQ\BTH4_LeHoangQuan_24521432\Bai06\obj\Debug\Bai06.exe.config
